@@ -1,0 +1,7 @@
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.csproj.AssemblyReference.cache
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.AssemblyInfoInputs.cache
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.AssemblyInfo.cs
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Faysal\Desktop\FayShop\FayShop\Services\Catalog\FayShop.Catalog\obj\Debug\net6.0\FayShop.Catalog.MvcApplicationPartsAssemblyInfo.cache
