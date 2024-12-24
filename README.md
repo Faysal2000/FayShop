@@ -1,4 +1,4 @@
-About FayShop: ##
+About FayShop: 
 FayShop is designed to streamline and manage critical commercial processes such as product inventory, customer management, sales tracking, and reporting. By utilizing modern software development practices and tools, FayShop ensures high performance and adaptability for businesses of all sizes.
 
 
