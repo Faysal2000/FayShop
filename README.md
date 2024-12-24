@@ -1,8 +1,8 @@
-About FayShop
+About FayShop: 
 FayShop is designed to streamline and manage critical commercial processes such as product inventory, customer management, sales tracking, and reporting. By utilizing modern software development practices and tools, FayShop ensures high performance and adaptability for businesses of all sizes.
 
 
-Technologies Used
+Technologies Used:
 This project leverages the following technologies to ensure a robust and scalable architecture:
 
 Redis: For efficient caching and faster access to frequently used data.
@@ -16,7 +16,7 @@ Postman: For testing and validating APIs throughout development.
 Identity Server: Providing secure authentication and authorization.
 
 
-Features
+Features:
 Microservices Architecture: Modular services that can scale independently.
 Advanced Caching: Leveraging Redis for optimized application performance.
 Secure Access: Implementing Identity Server for robust authentication and role-based access control.
@@ -27,5 +27,5 @@ Efficient Querying: CQRS separates reading and writing operations for better sys
 API Testing: Comprehensive API testing using Postman.
 
 
-Contribution Guidelines
+Contribution Guidelines:
 Contributions are welcome! If you have ideas for improvement or encounter issues, feel free to open an issue or submit a pull request. 
