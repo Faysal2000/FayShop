@@ -1,8 +1,9 @@
 ## About FayShop: 
 FayShop is designed to streamline and manage critical commercial processes such as product inventory, customer management, sales tracking, and reporting. By utilizing modern software development practices and tools, FayShop ensures high performance and adaptability for businesses of all sizes.
 
-
-Technologies Used:
+ ```bash
+## Technologies Used:
+```
 This project leverages the following technologies to ensure a robust and scalable architecture:
 
 Redis: For efficient caching and faster access to frequently used data.
