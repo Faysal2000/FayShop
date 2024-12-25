@@ -5,7 +5,7 @@ FayShop is designed to streamline and manage critical commercial processes such 
 ## Technologies Used:
 This project leverages the following technologies to ensure a robust and scalable architecture:
 
-## Redis: For efficient caching and faster access to frequently used data.
+ Redis: For efficient caching and faster access to frequently used data.
 Docker: To containerize applications for consistent environments and easier deployment.
 MongoDB: A NoSQL database for managing unstructured and semi-structured data.
 PostgreSQL: A relational database for complex queries and structured data.
